@@ -59,8 +59,7 @@ a {
   /* border: black 2px solid; */
   display: flex;
   flex-wrap: wrap;
-  flex: 1 0 0;
-  gap: 20px;
+  gap: 32px;
   padding: 48px;
 }
 
@@ -68,7 +67,6 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  height: 300px;
   width: 300px;
   padding: 10px;
 }
